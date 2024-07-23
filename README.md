@@ -6,7 +6,8 @@ Alura Geek es una aplicación desarrollada como parte del Challenge de Alura Lat
 
 - [Visión general](#visión-general)
   - [Descripción](#descripción)
-  - [Capturas de pantalla](#capturas-de-pantalla)
+  - [Capturas de pantalla](#capturas-de-p
+  ntalla)
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
   - [Construido con](#construido-con)
