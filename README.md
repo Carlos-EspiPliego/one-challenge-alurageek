@@ -6,8 +6,7 @@ Alura Geek es una aplicación desarrollada como parte del Challenge de Alura Lat
 
 - [Visión general](#visión-general)
   - [Descripción](#descripción)
-  - [Capturas de pantalla](#capturas-de-p
-  ntalla)
+  - [Capturas de pantalla](#capturas-de-pantalla)
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
   - [Construido con](#construido-con)
@@ -31,14 +30,12 @@ En esta aplicación, los usuarios pueden:
 
 ### Capturas de pantalla
 
-¡Sube aquí tus capturas de pantalla!
-
 ![](./assets/images/captura-desk.png)
 ![](./assets/images/captura-mobile.png)
 
 ### Enlaces
 
-- URL del sitio en vivo: [Alura Geek](https://galaxypliego.github.io/AluraGeek-ONE_Challenge/)
+- URL del sitio en vivo: [Alura Geek](https://carlos-espipliego.github.io/one-challenge-alurageek/)
 > **Nota**: Debido a que se utilizó `json-server` para simular una API, no es posible visualizar el sitio funcionando con la API en GitHub Pages. Sin embargo, puedes descargar el proyecto y seguir las instrucciones de instalación para ejecutarlo localmente. 👉 - [Instrucciones de instalación](#instrucciones-de-instalación)
 
 ## Mi proceso
